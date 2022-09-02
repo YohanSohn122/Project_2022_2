@@ -12,7 +12,7 @@ public class WordMan {
     public void start(){
         while (true) {
             int menu = selectMenu();
-            if (menu == 0) break;
+            if (menu==0) break;
             if (menu == 4){
                 //create
                 wordCRUD.addWord();

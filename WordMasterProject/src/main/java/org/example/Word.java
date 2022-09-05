@@ -1,4 +1,4 @@
-package main.java;
+package org.example;
 
 public class Word {
     private int id;

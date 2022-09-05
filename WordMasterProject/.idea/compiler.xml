@@ -9,8 +9,5 @@
         <module name="WordMasterProject" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="WordMasterProject" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>

@@ -38,7 +38,6 @@ public class Word {
     public String getMeaning(){
         return meaning;
     }
-
     @Override
     public String toString(){
         String slevel = "";

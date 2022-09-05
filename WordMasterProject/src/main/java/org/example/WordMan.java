@@ -9,6 +9,7 @@ public class WordMan {
     public WordMan(){
         wordCRUD = new WordCRUD(s);
     }
+
     public void start(){
         while (true) {
             int menu = selectMenu();

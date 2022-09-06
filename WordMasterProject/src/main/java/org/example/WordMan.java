@@ -19,11 +19,19 @@ public class WordMan {
             }
             if (menu == 4){
                 //create
-                wordCRUD.addWord();
+                wordCRUD.addItem();
             }
             if (menu == 1) {
                 //read
                 wordCRUD.listAll();
+            }
+            if (menu == 5){
+                //update
+                wordCRUD.updateItem();
+            }
+            if (menu == 6){
+                //delete
+                wordCRUD.deleteItem();
             }
         }
     }

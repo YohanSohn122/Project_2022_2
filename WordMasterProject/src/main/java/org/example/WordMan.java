@@ -11,6 +11,7 @@ public class WordMan {
     }
 
     public void start(){
+        wordCRUD.loadFile();
         while (true) {
             int menu = selectMenu();
             if (menu == 0) {
@@ -32,6 +33,16 @@ public class WordMan {
             if (menu == 6){
                 //delete
                 wordCRUD.deleteItem();
+            }
+            if (menu == 7) {
+                //save file
+                wordCRUD.saveFile();
+            }
+            if (menu == 2) {
+                wordCRUD.searchLevel();
+            }
+            if (menu == 3) {
+                wordCRUD.searchWord();
             }
         }
     }

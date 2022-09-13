@@ -1,2 +1,3 @@
 3|superintendent|관리자, 감독관
 1| apple|사과
+2|statistic|통계학

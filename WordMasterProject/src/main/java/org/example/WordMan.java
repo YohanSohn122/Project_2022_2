@@ -18,32 +18,13 @@ public class WordMan {
                 System.out.println("프로그램 종료");
                 break;
             }
-            if (menu == 4){
-                //create
-                wordCRUD.addItem();
-            }
-            if (menu == 1) {
-                //read
-                wordCRUD.listAll();
-            }
-            if (menu == 5){
-                //update
-                wordCRUD.updateItem();
-            }
-            if (menu == 6){
-                //delete
-                wordCRUD.deleteItem();
-            }
-            if (menu == 7) {
-                //save file
-                wordCRUD.saveFile();
-            }
-            if (menu == 2) {
-                wordCRUD.searchLevel();
-            }
-            if (menu == 3) {
-                wordCRUD.searchWord();
-            }
+            if (menu == 1) { wordCRUD.listAll(); } //read
+            if (menu == 2) { wordCRUD.searchLevel(); } //read by level
+            if (menu == 3) { wordCRUD.searchWord(); }//read by word
+            if (menu == 4){ wordCRUD.addItem(); } //create
+            if (menu == 5){ wordCRUD.updateItem(); } //update
+            if (menu == 6){ wordCRUD.deleteItem(); } //delete
+            if (menu == 7) { wordCRUD.saveFile(); } //save file
         }
     }
     public int selectMenu(){

@@ -11,6 +11,7 @@
 ### 10번 문항 ###
 <img src='https://github.com/YohanSohn122/Project_2022_2/blob/main/WordMasterProject/screenshot/ss_project1_6.png?raw=true' width=300>
 ### 13번 문항 ###
+<img src='https://github.com/YohanSohn122/Project_2022_2/blob/main/WordMasterProject/screenshot/ss_project1_8.png?raw=true' width=300>
 ### 15번 문항 ###
 
 

@@ -5,6 +5,7 @@
 ### 4번 문항 ###
 <img src='https://github.com/YohanSohn122/Project_2022_2/blob/main/WordMasterProject/screenshot/ss_project1_2.png?raw=true' width=300>
 ### 6번 문항 ###
+<img src='https://github.com/YohanSohn122/Project_2022_2/blob/main/WordMasterProject/screenshot/ss_project1_3.png?raw=true' width=300>
 ### 8번 문항 ###
 ### 10번 문항 ###
 ### 13번 문항 ###
